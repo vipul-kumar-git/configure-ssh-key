@@ -9,3 +9,4 @@ Configuring git bash with git hub account
 6. ssh-add ~/.ssh/id_rsa
 7. clip < ~/.ssh/id_rsa.pub
 8. Open gitHub > Settings > Add SSH Key > paste it.
+****************************************** Done *********************************************
